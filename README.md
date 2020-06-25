@@ -30,9 +30,9 @@ ation&r=false&c=%2Fm%2F014j1m
 Pysource. (27, 06, 2019). YOLO object detection using Opencv with Python.
 https://pysource.com/2019/06/27/yolo-object-detection-using-opencv-with-python/
 
-https://www.python.org/
-https://github.com/
-https://opencv.org/
+https://www.python.org/\n
+https://github.com/\n
+https://opencv.org/\n
 https://pjreddie.com/darknet/yolo/
 https://pjreddie.com/darknet/yolo/
 https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
