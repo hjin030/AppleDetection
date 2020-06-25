@@ -39,6 +39,4 @@ https://opencv.org/
 
 https://pjreddie.com/darknet/yolo/
 
-https://pjreddie.com/darknet/yolo/
-
 https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/
